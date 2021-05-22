@@ -1,0 +1,4 @@
+Looks good! There's a good book that has a lot of little projects on what you seem to be looking for called Automate the Boring Stuff with Python.
+It's a great way to learn python.
+
+100%
